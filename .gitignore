@@ -1,0 +1,7 @@
+#ignore all the unnecessary folders
+*/
+
+#except for the cloned time_series_augmentation folders
+
+!time_series_augmentation/
+
