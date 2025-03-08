@@ -108,15 +108,17 @@ def process_data_parallel(file, folder, generator):
         if existed >= total_needed:
             return
 
-        label = np.zeros((data.shape[0], 1))
-
         generated_data = None
 
         while existed < total_needed:
 
+            label = np.zeros((data.shape[0], 1))
+
             num_needed = total_needed - existed
             # because both rgw and wdba will return entries the same number as input data
-            num_generation = int(num_needed / data.shape[0]) + 1
+            needed_generation = int(num_needed / data.shape[0]) + 1
+
+            num_generation = min(needed_generation, 2)
 
             # generate new data only using original data
             aug_data = generate_data_parallel(data, [generator], num_generation, label)
