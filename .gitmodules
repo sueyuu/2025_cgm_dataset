@@ -1,6 +1,3 @@
-[submodule "time_series_augmentation"]
-	path = healthy_synthesis/time_series_augmentation
-	url = https://github.com/sueyuu/time_series_augmentation.git
 [submodule "healthy_synthesis/time_series_augmentation"]
 	path = healthy_synthesis/time_series_augmentation
 	url = https://github.com/sueyuu/time_series_augmentation.git
