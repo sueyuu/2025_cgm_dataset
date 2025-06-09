@@ -3,3 +3,7 @@
 
 #except for the submodule reference
 !time_series_augmentation
+
+#except for the subfolders for each submissions
+!evaluation_models
+!healthy_synthesis
