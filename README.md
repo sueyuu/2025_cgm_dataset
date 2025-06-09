@@ -38,4 +38,6 @@ at the end, the data shape for motif and k medoid are different. with data used 
 
 ## final evaluation
 
-please reference the **evaluation model** folder, the model and testset you need are all in the folder. just run the sample code.
+please reference the **evaluation model** folder, the model and testset you need are all in the folder.
+
+first unzip test folders and read readme in subfolder to do all the steps and run evaluation_v2.ipynb.
