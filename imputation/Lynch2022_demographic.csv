@@ -1,0 +1,389 @@
+PtID,EnrollDt,RandDt,VisitSchedStartDt,TrtGroup,AgeAsofEnrollDt,RCTPtStatus,TransRandDt,TransTrtGroup,DiabTrt,Sex,InsModPump,InsModInjections,InsModInhaled,InsModNone,hba1c,age_group,a1c_mean_group,treatment_group,filter_in,right_ID
+10,4/21/2019,3/24/2020 10:58:16 AM,3/24/2020,BP,58,Dropped,,,Tandem Control IQ,F,1.0,,,,6.733333333333333,20-65,<7,BP,0,
+100,2/23/2020,12/27/2020 8:25:59 AM,12/27/2020,BPFiasp,46,Completed,3/30/2021 6:30:40 PM,UC,Multiple daily injections,F,,1.0,,,8.375,20-65,<8.5,BP,0,
+101,6/29/2019,5/15/2020 12:51:47 PM,5/15/2020,BPFiasp,20,Completed,8/14/2020 1:31:29 PM,BP,Multiple daily injections,M,,1.0,,,7.425000000000001,20-65,<8.5,BP,0,
+102,12/18/2019,12/10/2020 11:38:10 AM,12/10/2020,Control,12,Completed,,,Patch pump,F,1.0,,,,6.175,<20,<7,Basic Pump/SAP,0,
+103,11/6/2020,1/8/2021 5:00:50 PM,1/8/2021,BP,8,Completed,4/10/2021 5:43:07 PM,UC,Patch pump,M,1.0,,,,7.525,<10,<8.5,BP,0,
+105,10/20/2019,9/8/2020 10:30:55 AM,9/8/2020,BP,33,Completed,12/13/2020 5:18:44 PM,UC,Tandem Basal IQ,M,1.0,,,,6.9,20-65,<7,BP,1,105.0
+107,12/18/2019,11/25/2020 10:51:56 AM,11/25/2020,BP,13,Completed,2/25/2021 1:19:20 PM,BP,Multiple daily injections,M,,1.0,,,8.75,<20,≥8.5,BP,0,
+11,5/11/2020,7/16/2020 12:21:21 PM,7/16/2020,Control,6,Completed,,,Tandem Control IQ,M,1.0,,,,6.633333333333333,<10,<7,CLP,0,
+111,11/18/2019,10/25/2020 1:33:20 PM,10/25/2020,BPFiasp,43,Completed,1/24/2021 12:42:51 PM,BP,Conventional pump without automation,F,1.0,,,,7.85,20-65,<8.5,BP,0,
+112,4/1/2020,4/14/2021 11:43:28 AM,4/14/2021,BP,69,Completed,7/21/2021 2:03:45 PM,BP,Multiple daily injections,M,,1.0,,,7.699999999999999,≥65,<8.5,BP,0,
+113,9/7/2020,11/28/2020 1:03:35 PM,11/28/2020,BPFiasp,21,Completed,2/27/2021 1:38:06 PM,UC,Multiple daily injections,M,,1.0,,,8.175,20-65,<8.5,BP,0,
+114,9/25/2019,9/7/2020 1:51:25 PM,9/7/2020,Control,9,Completed,,,Multiple daily injections,M,,1.0,,,8.6,<10,≥8.5,MDI,0,
+116,11/4/2020,1/29/2021 10:20:48 AM,1/29/2021,BP,56,Completed,5/5/2021 11:46:18 AM,UC,Conventional pump without automation,F,1.0,,,,7.6,20-65,<8.5,BP,0,
+117,6/25/2020,10/14/2020 1:45:37 PM,10/14/2020,Control,52,Completed,,,Tandem Control IQ,M,1.0,,,,7.45,20-65,<8.5,CLP,0,
+118,4/20/2019,1/18/2020 3:48:23 PM,1/18/2020,Control,33,Completed,,,Multiple daily injections,M,,1.0,,,7.066666666666666,20-65,<8.5,MDI,1,118.0
+119,5/7/2020,4/7/2021 11:27:04 AM,4/7/2021,BPFiasp,18,Completed,7/12/2021 4:29:05 PM,UC,Medtronic 670G/770G using automode,F,1.0,,,,7.225,<20,<8.5,BP,0,
+12,4/30/2019,4/10/2020 8:29:52 AM,4/10/2020,BP,57,Completed,7/10/2020 9:52:25 AM,UC,Tandem Basal IQ,F,1.0,,,,6.2,20-65,<7,BP,0,
+120,7/22/2019,3/31/2020 11:54:41 AM,3/31/2020,Control,14,Completed,,,Multiple daily injections,M,,1.0,,,6.5,<20,<7,MDI,1,120.0
+125,10/24/2019,8/27/2020 11:29:27 AM,8/27/2020,BPFiasp,32,Completed,12/1/2020 10:46:13 AM,UC,Tandem Basal IQ,F,1.0,,,,7.133333333333333,20-65,<8.5,BP,0,
+126,10/29/2019,10/14/2020 2:12:56 PM,10/14/2020,BPFiasp,50,Completed,1/13/2021 3:12:57 PM,BP,Medtronic 670G/770G using automode,F,1.0,,,,7.666666666666667,20-65,<8.5,BP,0,
+128,4/28/2019,4/2/2020 10:18:53 AM,4/2/2020,BP,14,Completed,7/5/2020 11:11:14 AM,UC,Tandem Control IQ,F,1.0,,,,6.9,<20,<7,BP,1,128.0
+129,10/19/2019,10/22/2020 12:38:17 PM,10/22/2020,Control,8,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,7.75,<10,<8.5,CLP,0,
+13,10/23/2019,10/11/2020 11:34:19 AM,10/11/2020,BP,6,Completed,1/13/2021 11:04:18 AM,BP,Multiple daily injections,F,,1.0,,,8.7,<10,≥8.5,BP,0,
+130,5/30/2019,4/30/2020 10:01:03 AM,4/30/2020,BP,13,Completed,8/2/2020 12:47:15 PM,UC,Patch pump,M,1.0,,,,7.5,<20,<8.5,BP,1,130.0
+131,3/8/2020,1/15/2021 12:26:58 PM,1/15/2021,BP,11,Completed,4/22/2021 1:27:53 PM,UC,Patch pump,M,1.0,,,,7.066666666666666,<20,<8.5,BP,0,
+133,10/31/2020,11/26/2020 10:34:09 AM,11/26/2020,BP,8,Completed,3/4/2021 11:51:10 AM,UC,Patch pump,M,1.0,,,,7.65,<10,<8.5,BP,1,133.0
+134,11/5/2019,11/9/2020 4:14:57 PM,11/9/2020,BPFiasp,56,Completed,2/8/2021 2:41:23 PM,BP,Medtronic 670G/770G using automode,F,1.0,,,,7.533333333333334,20-65,<8.5,BP,0,
+135,6/13/2019,3/4/2020 12:01:41 PM,3/4/2020,BPFiasp,21,Completed,6/6/2020 12:01:24 PM,UC,Multiple daily injections,F,,1.0,,,7.2,20-65,<8.5,BP,1,135.0
+137,1/2/2020,9/26/2020 3:05:36 PM,9/26/2020,BPFiasp,40,Completed,12/26/2020 5:38:11 PM,UC,Tandem Control IQ,M,1.0,,,,7.066666666666666,20-65,<8.5,BP,1,137.0
+138,5/9/2019,3/23/2020 2:02:04 PM,3/23/2020,BP,9,Completed,6/22/2020 3:00:06 PM,UC,Patch pump,M,1.0,,,,6.699999999999999,<10,<7,BP,0,
+139,6/3/2019,5/9/2020 1:49:59 PM,5/9/2020,BP,22,Completed,8/16/2020 1:16:38 PM,BP,Tandem Control IQ,F,1.0,,,,7.066666666666666,20-65,<8.5,BP,0,
+14,3/7/2020,3/27/2021 10:35:35 AM,3/27/2021,Control,9,Completed,,,Multiple daily injections,F,,1.0,,,8.825,<10,≥8.5,MDI,1,14.0
+141,11/19/2019,11/22/2020 10:02:31 AM,11/22/2020,BP,13,Completed,2/23/2021 3:05:07 PM,BP,Patch pump,F,1.0,,,,7.5,<20,<8.5,BP,0,
+142,6/12/2019,5/28/2020 9:35:55 AM,5/28/2020,Control,15,Completed,,,Multiple daily injections,M,,1.0,,,7.425,<20,<8.5,MDI,0,
+144,11/18/2020,12/4/2020 10:00:14 AM,12/4/2020,BPFiasp,18,Completed,3/5/2021 10:54:19 AM,UC,Multiple daily injections,M,,1.0,,,8.375,<20,<8.5,BP,1,144.0
+146,8/21/2019,7/5/2020 2:05:49 PM,7/5/2020,Control,13,Completed,,,Tandem Control IQ,F,1.0,,,,7.325,<20,<8.5,CLP,0,
+147,5/11/2019,5/13/2020 12:19:16 PM,5/13/2020,Control,8,Completed,,,Tandem Basal IQ,M,1.0,,,,8.6,<10,≥8.5,SAP,0,
+148,12/19/2019,9/17/2020 10:12:40 AM,9/17/2020,BP,14,Completed,12/17/2020 10:27:41 AM,BP,Tandem Control IQ,M,1.0,,,,8.725,<20,≥8.5,BP,0,
+15,11/21/2020,2/4/2021 9:06:49 AM,2/4/2021,Control,11,Completed,,,Multiple daily injections,M,,1.0,,,9.35,<20,≥8.5,MDI,0,
+150,8/28/2020,9/14/2020 10:44:29 AM,9/14/2020,Control,67,Completed,,,Multiple daily injections,F,,1.0,,,7.366666666666667,≥65,<8.5,MDI,1,150.0
+152,1/14/2020,1/12/2021 11:34:54 AM,1/12/2021,Control,8,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,7.325,<10,<8.5,CLP,0,
+153,10/23/2019,7/3/2020 10:47:39 AM,7/3/2020,BP,43,Completed,10/2/2020 9:53:54 AM,UC,Multiple daily injections,M,,1.0,,,7.1000000000000005,20-65,<8.5,BP,1,153.0
+154,8/28/2019,6/2/2020 11:52:15 AM,6/2/2020,BP,54,Completed,9/1/2020 12:11:52 PM,BP,Tandem Control IQ,F,1.0,,,,6.766666666666667,20-65,<7,BP,1,154.0
+155,3/2/2020,2/22/2021 4:03:01 PM,2/22/2021,BP,39,Completed,5/31/2021 10:20:52 AM,BP,Conventional pump without automation,F,1.0,,,,6.2,20-65,<7,BP,0,
+156,3/28/2020,1/19/2021 1:56:02 PM,1/19/2021,BPFiasp,44,Completed,4/24/2021 1:09:15 PM,UC,Multiple daily injections,M,,1.0,,,7.7,20-65,<8.5,BP,0,
+157,4/5/2019,1/14/2020 6:03:47 PM,1/14/2020,Control,9,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,7.4,<10,<8.5,CLP,1,157.0
+158,10/24/2019,10/26/2020 12:48:40 PM,10/26/2020,BP,69,Completed,1/28/2021 2:39:05 PM,UC,Conventional pump without automation,M,1.0,,,,8.666666666666666,≥65,≥8.5,BP,0,
+16,12/7/2019,8/30/2020 12:33:30 PM,8/30/2020,Control,59,Completed,,,Multiple daily injections,M,,1.0,,,7.733333333333333,20-65,<8.5,MDI,1,16.0
+160,10/26/2019,11/7/2020 4:27:15 PM,11/7/2020,BP,12,Completed,2/14/2021 1:19:36 PM,BP,Medtronic 670G/770G using automode,F,1.0,,,,8.2,<20,<8.5,BP,0,
+162,1/31/2020,10/18/2020 9:20:42 AM,10/18/2020,BPFiasp,41,Completed,1/20/2021 10:00:10 AM,UC,Conventional pump without automation,F,1.0,,,,7.3,20-65,<8.5,BP,0,
+164,10/26/2020,1/30/2021 1:04:55 PM,1/30/2021,BPFiasp,28,Completed,5/9/2021 1:10:28 PM,UC,Multiple daily injections,F,,1.0,,,8.5,20-65,≥8.5,BP,0,
+166,9/12/2019,8/10/2020 9:48:45 AM,8/10/2020,BPFiasp,51,Completed,11/12/2020 11:24:52 AM,UC,Medtronic 670G/770G using automode,F,1.0,,,,6.85,20-65,<7,BP,0,
+167,7/31/2019,7/20/2020 12:47:58 PM,7/20/2020,BPFiasp,60,Completed,,,Tandem Basal IQ,F,1.0,,,,7.525,20-65,<8.5,BP,0,
+168,2/12/2020,10/29/2020 4:02:34 PM,10/29/2020,BP,33,Completed,1/28/2021 2:28:45 PM,UC,Tandem Control IQ,F,1.0,,,,7.675000000000001,20-65,<8.5,BP,1,168.0
+169,3/17/2020,2/20/2021 4:05:57 PM,2/20/2021,Control,64,Completed,,,Tandem Control IQ,M,1.0,,,,7.866666666666667,20-65,<8.5,CLP,0,
+17,7/18/2019,7/1/2020 10:36:13 AM,7/1/2020,BP,14,Completed,,,Multiple daily injections,M,,1.0,,,9.133333333333333,<20,≥8.5,BP,0,
+170,4/12/2020,5/9/2021 12:48:20 PM,5/9/2021,BP,69,Completed,,,Tandem Control IQ,M,1.0,,,,6.575,≥65,<7,BP,0,
+171,10/9/2019,6/28/2020 10:55:28 AM,6/28/2020,BPFiasp,37,Completed,9/30/2020 10:28:06 AM,UC,Multiple daily injections,M,,1.0,,,6.766666666666667,20-65,<7,BP,1,171.0
+173,2/24/2020,2/9/2021 12:02:59 PM,2/9/2021,BP,13,Completed,5/14/2021 5:00:59 PM,UC,Tandem Basal IQ,F,1.0,,,,7.266666666666667,<20,<8.5,BP,1,173.0
+175,9/13/2020,10/5/2020 10:41:21 AM,10/5/2020,Control,17,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,8.0,<20,<8.5,CLP,1,175.0
+176,6/2/2019,5/9/2020 12:38:18 PM,5/9/2020,BPFiasp,64,Completed,8/9/2020 4:19:38 PM,UC,Patch pump,F,1.0,,,,7.8,20-65,<8.5,BP,0,
+177,2/9/2020,4/14/2020 2:12:03 PM,4/14/2020,BPFiasp,40,Completed,7/17/2020 4:48:04 PM,BP,Multiple daily injections,F,,1.0,,,8.3,20-65,<8.5,BP,0,
+178,11/11/2019,10/24/2020 2:26:07 PM,10/24/2020,BP,12,Completed,1/23/2021 1:56:21 PM,UC,Patch pump,F,1.0,,,,6.475,<20,<7,BP,0,
+18,6/5/2019,4/9/2020 9:11:05 AM,4/9/2020,BPFiasp,46,Completed,7/12/2020 9:48:38 AM,BP,Conventional pump without automation,F,1.0,,,,7.55,20-65,<8.5,BP,0,
+181,9/7/2019,6/1/2020 11:46:38 AM,6/1/2020,BP,11,Completed,8/31/2020 3:01:16 PM,BP,Tandem Control IQ,F,1.0,,,,7.266666666666667,<20,<8.5,BP,0,
+182,1/27/2020,8/8/2020 10:26:08 AM,8/8/2020,BP,10,Completed,11/7/2020 9:05:00 AM,BP,Multiple daily injections,M,,1.0,,,7.85,<20,<8.5,BP,0,
+183,3/14/2020,12/17/2020 1:35:19 PM,12/17/2020,BP,63,Completed,3/20/2021 11:15:03 AM,BP,Multiple daily injections,M,,1.0,,,7.833333333333333,20-65,<8.5,BP,0,
+184,1/14/2020,12/22/2020 1:51:52 PM,12/22/2020,BPFiasp,31,Completed,3/28/2021 10:41:31 AM,BP,Multiple daily injections,M,,1.0,,,9.425,20-65,≥8.5,BP,0,
+185,7/19/2019,4/8/2020 8:36:51 AM,4/8/2020,BP,59,Completed,7/8/2020 11:54:46 AM,UC,Multiple daily injections,M,,1.0,,,7.333333333333333,20-65,<8.5,BP,1,185.0
+186,4/8/2020,3/11/2021 12:35:51 PM,3/11/2021,BPFiasp,52,Completed,6/15/2021 1:07:01 PM,UC,Medtronic 670G/770G using automode,M,1.0,,,,8.075,20-65,<8.5,BP,0,
+187,3/2/2020,7/15/2020 1:02:01 PM,7/15/2020,BPFiasp,31,Completed,,,Multiple daily injections,F,,1.0,,,7.333333333333333,20-65,<8.5,BP,0,
+188,1/5/2020,2/7/2021 2:42:17 PM,2/7/2021,BPFiasp,31,Completed,,,Multiple daily injections,M,,1.0,,,6.633333333333333,20-65,<7,BP,1,188.0
+189,6/8/2019,5/10/2020 9:40:58 AM,5/10/2020,BPFiasp,67,Completed,8/11/2020 12:26:16 PM,BP,Tandem Control IQ,M,1.0,,,,8.1,≥65,<8.5,BP,0,
+19,8/16/2020,11/26/2020 10:24:47 AM,11/26/2020,Control,8,Completed,,,Multiple daily injections,M,,1.0,,,8.025,<10,<8.5,MDI,1,19.0
+191,10/18/2019,6/17/2020 11:11:45 AM,6/17/2020,BP,30,Completed,9/22/2020 11:49:56 AM,BP,Multiple daily injections,M,,1.0,,,7.574999999999999,20-65,<8.5,BP,0,
+193,7/6/2019,5/24/2020 12:14:44 PM,5/24/2020,BP,14,Completed,8/29/2020 4:08:41 PM,BP,Multiple daily injections,M,,1.0,,,7.95,<20,<8.5,BP,0,
+194,10/22/2019,9/4/2020 11:13:28 AM,9/4/2020,BP,48,Completed,12/6/2020 4:38:24 PM,UC,Multiple daily injections,F,,1.0,,,6.3,20-65,<7,BP,0,
+195,11/16/2019,7/7/2020 2:27:56 PM,7/7/2020,BPFiasp,40,Completed,10/13/2020 11:11:43 AM,BP,Conventional pump without automation,F,1.0,,,,8.625,20-65,≥8.5,BP,0,
+198,7/2/2020,12/22/2020 9:18:13 PM,12/26/2020,BP,6,Completed,4/2/2021 7:06:16 PM,UC,Multiple daily injections,F,,1.0,,,7.166666666666667,<10,<8.5,BP,0,
+199,10/21/2019,9/24/2020 10:31:00 AM,9/24/2020,BPFiasp,27,Completed,12/31/2020 1:28:55 PM,UC,Tandem Control IQ,F,1.0,,,,7.266666666666667,20-65,<8.5,BP,0,
+20,3/30/2020,3/19/2021 12:58:39 PM,3/19/2021,BP,53,Completed,,,Tandem Control IQ,F,1.0,,,,7.433333333333334,20-65,<8.5,BP,0,
+200,2/17/2020,1/27/2021 8:29:02 AM,1/27/2021,BPFiasp,54,Completed,5/1/2021 9:38:24 AM,BP,Multiple daily injections,M,,1.0,,,7.966666666666666,20-65,<8.5,BP,0,
+201,12/18/2019,11/11/2020 8:57:13 AM,11/11/2020,Control,11,Completed,,,Multiple daily injections,M,,1.0,,,9.275,<20,≥8.5,MDI,1,201.0
+202,7/2/2020,10/11/2020 4:50:54 PM,10/11/2020,BP,12,Completed,1/17/2021 11:45:43 AM,BP,Multiple daily injections,F,,1.0,,,8.1,<20,<8.5,BP,0,
+205,9/21/2019,9/21/2020 11:06:36 AM,9/21/2020,BP,72,Completed,12/19/2020 12:11:07 PM,UC,Conventional pump without automation,M,1.0,,,,7.425,≥65,<8.5,BP,0,
+206,10/14/2019,9/13/2020 12:15:30 PM,9/13/2020,BP,47,Completed,12/14/2020 10:21:25 AM,UC,Multiple daily injections,M,,1.0,,,7.95,20-65,<8.5,BP,0,
+207,3/21/2020,2/23/2021 2:32:20 PM,2/23/2021,BPFiasp,65,Completed,5/25/2021 12:00:25 PM,UC,Multiple daily injections,M,,1.0,,,6.525,≥65,<7,BP,0,
+209,4/9/2020,12/30/2020 9:57:09 AM,12/30/2020,BP,7,Completed,4/3/2021 9:56:14 AM,UC,Multiple daily injections,M,,1.0,,,7.5,<10,<8.5,BP,1,209.0
+21,3/2/2020,5/11/2020 1:21:22 PM,5/11/2020,BPFiasp,39,Completed,8/10/2020 1:33:22 PM,UC,Conventional pump without automation,M,1.0,,,,6.866666666666667,20-65,<7,BP,0,
+212,9/14/2019,5/13/2020 3:02:16 PM,5/13/2020,Control,47,Completed,,,Conventional pump without automation,M,1.0,,,,7.725,20-65,<8.5,Basic Pump,1,212.0
+214,12/16/2019,11/29/2020 12:48:32 PM,11/29/2020,BP,15,Completed,2/28/2021 1:02:54 PM,UC,Patch pump,F,1.0,,,,8.966666666666667,<20,≥8.5,BP,0,
+215,5/16/2019,4/17/2020 10:43:09 AM,4/17/2020,Control,56,Completed,,,Multiple daily injections,M,,1.0,,,10.225,20-65,≥8.5,MDI,0,
+216,8/6/2019,7/22/2020 10:41:26 AM,7/22/2020,Control,12,Completed,,,Patch pump,M,1.0,,,,7.15,<20,<8.5,Basic Pump/SAP,0,
+217,9/6/2019,6/3/2020 1:15:30 PM,6/3/2020,BPFiasp,37,Completed,9/7/2020 3:58:53 PM,BP,Patch pump,M,1.0,,,,6.5,20-65,<7,BP,1,217.0
+218,11/18/2019,11/28/2020 7:25:33 PM,11/28/2020,BPFiasp,50,Completed,,,Conventional pump without automation,M,1.0,,,,7.433333333333334,20-65,<8.5,BP,0,
+221,7/6/2019,5/17/2020 1:35:16 PM,5/17/2020,BPFiasp,61,Completed,8/16/2020 2:47:14 PM,UC,Medtronic 670G/770G using automode,F,1.0,,,,7.075,20-65,<8.5,BP,0,
+222,2/27/2020,7/7/2020 11:33:50 AM,7/7/2020,BP,27,Completed,,,Multiple daily injections,M,,1.0,,,9.0,20-65,≥8.5,BP,0,
+223,8/13/2019,7/9/2020 2:42:20 PM,7/9/2020,BPFiasp,47,Completed,10/9/2020 12:41:58 PM,UC,Tandem Basal IQ,F,1.0,,,,7.625,20-65,<8.5,BP,0,
+224,10/28/2019,9/24/2020 2:17:12 PM,9/24/2020,BP,13,Completed,12/28/2020 2:50:34 PM,UC,Multiple daily injections,M,,1.0,,,6.9,<20,<7,BP,0,
+226,10/2/2019,6/28/2020 8:34:49 AM,6/28/2020,BP,62,Completed,10/3/2020 9:38:53 AM,BP,Tandem Control IQ,F,1.0,,,,6.45,20-65,<7,BP,1,226.0
+227,3/11/2020,3/1/2021 12:19:37 PM,3/1/2021,BP,13,Completed,6/6/2021 1:19:44 PM,UC,Medtronic 670G/770G using automode,F,1.0,,,,7.925,<20,<8.5,BP,0,
+228,5/2/2020,12/26/2020 12:40:25 PM,12/26/2020,Control,8,Completed,,,Multiple daily injections,M,,1.0,,,8.25,<10,<8.5,MDI,0,
+23,2/3/2020,9/28/2020 8:36:14 AM,9/28/2020,BP,11,Completed,1/4/2021 9:38:40 AM,BP,Multiple daily injections,M,,1.0,,,7.5,<20,<8.5,BP,1,23.0
+230,10/3/2020,10/22/2020 8:50:50 AM,10/22/2020,Control,55,Completed,,,Conventional pump without automation,F,1.0,,,,7.633333333333333,20-65,<8.5,Basic Pump,1,230.0
+231,4/4/2020,3/20/2021 10:08:53 AM,3/20/2021,Control,34,Completed,,,Conventional pump without automation,F,1.0,,,,8.1,20-65,<8.5,Basic Pump,0,
+233,3/1/2020,3/2/2021 2:46:30 PM,3/2/2021,BP,32,Completed,6/8/2021 3:57:18 PM,BP,Multiple daily injections,M,,1.0,,,7.133333333333333,20-65,<8.5,BP,0,
+235,1/6/2020,10/11/2020 1:16:19 PM,10/11/2020,BP,11,Completed,1/13/2021 2:01:40 PM,UC,Multiple daily injections,F,,1.0,,,8.033333333333333,<20,<8.5,BP,1,235.0
+238,4/30/2020,1/6/2021 10:40:18 AM,1/6/2021,Control,22,Completed,,,Tandem Control IQ,F,1.0,,,,6.725,20-65,<7,CLP,1,238.0
+24,6/26/2019,3/17/2020 3:19:33 PM,3/17/2020,Control,11,Completed,,,Conventional pump without automation,F,1.0,,,,8.133333333333333,<20,<8.5,Basic Pump,1,24.0
+240,3/31/2020,4/26/2021 2:30:07 PM,4/26/2021,BPFiasp,51,Completed,7/26/2021 12:49:32 PM,UC,Multiple daily injections,F,,1.0,,,7.1000000000000005,20-65,<8.5,BP,0,
+241,3/10/2021,4/15/2021 12:50:07 PM,4/15/2021,BPFiasp,40,Completed,7/15/2021 4:51:37 PM,UC,Multiple daily injections,F,,1.0,,,6.866666666666667,20-65,<7,BP,1,241.0
+242,10/17/2020,2/28/2021 10:06:05 AM,2/28/2021,BP,28,Completed,6/6/2021 1:40:31 PM,BP,Tandem Control IQ,F,1.0,,,,6.333333333333333,20-65,<7,BP,0,
+244,6/14/2019,6/13/2020 12:44:58 PM,6/13/2020,Control,12,Completed,,,Conventional pump without automation,F,1.0,,,,7.733333333333333,<20,<8.5,Basic Pump,0,
+245,1/27/2020,2/10/2021 10:02:11 AM,2/10/2021,BPFiasp,62,Completed,5/14/2021 5:32:59 PM,BP,Tandem Control IQ,F,1.0,,,,6.866666666666667,20-65,<7,BP,0,
+247,7/19/2019,6/20/2020 9:48:42 AM,6/20/2020,BP,11,Completed,9/19/2020 9:55:13 AM,BP,Multiple daily injections,F,,1.0,,,7.3,<20,<8.5,BP,0,
+249,5/21/2019,4/23/2020 2:22:04 PM,4/23/2020,BP,58,Completed,7/25/2020 4:46:58 PM,BP,Conventional pump without automation,M,1.0,,,,7.366666666666667,20-65,<8.5,BP,0,
+25,5/12/2019,5/16/2020 3:06:11 PM,5/16/2020,BP,42,Completed,8/21/2020 3:21:00 PM,BP,Tandem Control IQ,M,1.0,,,,7.733333333333333,20-65,<8.5,BP,0,
+250,10/19/2019,4/12/2020 2:11:47 PM,4/12/2020,BP,16,Completed,7/12/2020 2:04:23 PM,BP,Tandem Control IQ,M,1.0,,,,7.199999999999999,<20,<8.5,BP,0,
+251,1/22/2020,2/18/2021 11:15:13 AM,2/18/2021,Control,42,Completed,,,Multiple daily injections,F,,1.0,,,6.633333333333333,20-65,<7,MDI,1,251.0
+252,11/18/2019,10/20/2020 12:45:34 PM,10/20/2020,BP,50,Completed,1/25/2021 5:15:21 PM,UC,Tandem Basal IQ,M,1.0,,,,6.775,20-65,<7,BP,0,
+253,11/4/2019,11/14/2020 9:18:25 AM,11/14/2020,Control,7,Completed,,,Multiple daily injections,M,,1.0,,,7.2,<10,<8.5,MDI,0,
+254,2/26/2020,5/25/2020 8:48:47 AM,5/25/2020,BP,11,Completed,8/26/2020 9:50:51 AM,BP,Tandem Basal IQ,M,1.0,,,,7.4,<20,<8.5,BP,0,
+255,3/17/2020,2/6/2021 12:15:24 PM,2/6/2021,BP,16,Completed,5/11/2021 10:36:13 AM,UC,Patch pump,M,1.0,,,,7.125,<20,<8.5,BP,0,
+258,11/16/2019,8/17/2020 8:10:02 AM,8/17/2020,BPFiasp,61,Completed,11/16/2020 8:44:34 AM,BP,Patch pump,M,1.0,,,,7.333333333333333,20-65,<8.5,BP,1,258.0
+259,5/7/2019,1/31/2020 1:53:33 PM,1/31/2020,Control,15,Completed,,,Multiple daily injections,M,,1.0,,,10.325,<20,≥8.5,MDI,1,259.0
+260,3/14/2021,3/31/2021 4:00:47 PM,3/31/2021,BPFiasp,53,Completed,,,Patch pump,M,1.0,,,,8.0,20-65,<8.5,BP,0,
+261,4/22/2020,1/12/2021 7:47:53 AM,1/12/2021,BP,14,Completed,4/13/2021 10:02:24 AM,BP,Multiple daily injections,F,,1.0,,,8.225,<20,<8.5,BP,1,261.0
+265,2/9/2020,12/25/2020 9:28:08 AM,12/25/2020,Control,30,Completed,,,Multiple daily injections,M,,1.0,,,9.15,20-65,≥8.5,MDI,0,
+266,6/24/2019,6/11/2020 12:20:22 PM,6/11/2020,BP,21,Completed,9/10/2020 1:44:44 PM,BP,Multiple daily injections,M,,1.0,,,7.9,20-65,<8.5,BP,0,
+267,8/6/2020,11/15/2020 5:48:52 PM,11/15/2020,Control,17,Completed,,,Medtronic 670G/770G using automode,F,1.0,,,,10.566666666666666,<20,≥8.5,CLP,0,
+27,6/19/2019,6/7/2020 9:38:36 AM,6/7/2020,BP,65,Completed,9/7/2020 2:39:29 PM,BP,Patch pump,F,1.0,,,,6.033333333333334,≥65,<7,BP,1,27.0
+270,5/20/2019,4/24/2020 1:16:23 PM,4/24/2020,BPFiasp,74,Completed,7/24/2020 5:47:10 PM,UC,Conventional pump without automation,F,1.0,,,,7.266666666666667,≥65,<8.5,BP,0,
+273,12/17/2020,1/7/2021 11:30:32 AM,1/7/2021,BP,19,Completed,4/19/2021 5:30:14 PM,UC,Patch pump,M,1.0,,,,7.833333333333333,<20,<8.5,BP,1,273.0
+274,9/27/2019,6/25/2020 11:12:54 AM,6/25/2020,BP,10,Completed,9/25/2020 11:51:59 AM,UC,Patch pump,F,1.0,,,,8.333333333333334,<20,<8.5,BP,1,274.0
+276,12/29/2019,8/29/2020 9:24:13 AM,8/29/2020,BP,29,Completed,11/28/2020 9:26:29 AM,UC,Tandem Control IQ,M,1.0,,,,5.55,20-65,<7,BP,1,276.0
+277,3/2/2020,2/21/2021 12:39:33 PM,2/21/2021,BP,53,Completed,5/23/2021 12:06:14 PM,UC,Multiple daily injections,M,,1.0,,,7.1000000000000005,20-65,<8.5,BP,0,
+279,1/30/2020,10/7/2020 1:59:48 PM,10/7/2020,BP,9,Completed,1/12/2021 9:19:45 AM,BP,Multiple daily injections,M,,1.0,,,8.575,<10,≥8.5,BP,1,279.0
+281,10/25/2019,7/24/2020 10:57:50 AM,7/24/2020,BPFiasp,72,Completed,10/23/2020 12:39:13 PM,BP,Tandem Control IQ,M,1.0,,,,6.9,≥65,<7,BP,1,281.0
+282,8/2/2020,8/19/2020 10:00:11 AM,8/19/2020,BPFiasp,59,Completed,11/25/2020 8:58:05 AM,UC,Conventional pump without automation,F,1.0,,,,7.8,20-65,<8.5,BP,1,282.0
+284,6/27/2019,2/22/2020 1:05:28 PM,2/22/2020,Control,10,Completed,,,Tandem Control IQ,F,1.0,,,,7.0,<20,<8.5,CLP,1,284.0
+287,8/7/2019,4/8/2020 8:42:45 AM,4/8/2020,Control,11,Completed,,,Multiple daily injections,F,,1.0,,,8.525,<20,≥8.5,MDI,1,287.0
+288,10/30/2019,10/21/2020 12:21:09 PM,10/21/2020,BP,44,Completed,1/21/2021 12:15:23 PM,UC,Multiple daily injections,M,,1.0,1.0,,7.333333333333333,20-65,<8.5,BP,0,
+289,5/31/2020,7/25/2020 1:55:45 PM,7/25/2020,BP,10,Completed,10/30/2020 2:29:41 PM,BP,Multiple daily injections,F,,1.0,,,7.733333333333333,<20,<8.5,BP,0,
+29,7/25/2019,4/23/2020 9:46:26 AM,4/23/2020,Control,14,Completed,,,Tandem Control IQ,M,1.0,,,,7.466666666666666,<20,<8.5,CLP,1,29.0
+290,9/20/2019,9/7/2020 10:08:49 AM,9/7/2020,BP,48,Completed,12/12/2020 11:43:20 AM,BP,Conventional pump without automation,F,1.0,,,,7.3,20-65,<8.5,BP,1,290.0
+291,1/25/2020,6/23/2020 10:25:36 AM,6/23/2020,BP,6,Completed,9/22/2020 1:00:43 PM,UC,Multiple daily injections,M,,1.0,,,7.95,<10,<8.5,BP,1,291.0
+292,7/15/2020,10/21/2020 9:07:37 AM,10/21/2020,BPFiasp,68,Completed,1/25/2021 5:11:17 PM,UC,Conventional pump without automation,F,1.0,,,,7.066666666666666,≥65,<8.5,BP,0,
+293,1/20/2021,3/16/2021 12:10:03 PM,3/16/2021,BPFiasp,26,Completed,6/22/2021 9:55:08 AM,BP,Conventional pump without automation,F,1.0,,,,6.775,20-65,<7,BP,1,293.0
+295,1/23/2020,10/14/2020 9:33:52 AM,10/14/2020,BP,8,Completed,1/13/2021 10:34:01 AM,BP,Patch pump,M,1.0,,,,8.55,<10,≥8.5,BP,1,295.0
+299,7/10/2020,9/22/2020 10:07:21 AM,9/22/2020,BP,13,Completed,12/22/2020 4:56:17 PM,BP,Conventional pump without automation,M,1.0,,,,7.8,<20,<8.5,BP,1,299.0
+3,7/19/2020,10/22/2020 10:01:24 AM,10/22/2020,BP,7,Completed,1/23/2021 3:34:39 PM,UC,Patch pump,M,1.0,,,,7.1,<10,<8.5,BP,0,
+30,1/2/2020,12/9/2020 12:56:45 PM,12/9/2020,BP,15,Completed,3/18/2021 2:52:13 PM,UC,Conventional pump without automation,F,1.0,,,,7.65,<20,<8.5,BP,0,
+300,9/27/2019,8/22/2020 2:32:51 PM,8/22/2020,BP,48,Completed,11/28/2020 7:20:42 PM,UC,Conventional pump without automation,F,1.0,,,,7.275,20-65,<8.5,BP,1,300.0
+301,4/12/2020,10/31/2020 12:36:49 PM,10/31/2020,BPFiasp,61,Completed,2/5/2021 2:40:44 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,7.4,20-65,<8.5,BP,0,
+302,5/26/2020,6/17/2020 9:44:49 AM,6/17/2020,BP,18,Completed,9/23/2020 6:42:38 PM,BP,Conventional pump without automation,F,1.0,,,,11.7,<20,≥8.5,BP,1,302.0
+303,6/25/2020,7/23/2020 11:26:00 AM,7/23/2020,Control,32,Completed,,,Multiple daily injections,M,,1.0,,,7.6,20-65,<8.5,MDI,1,303.0
+304,12/7/2019,9/2/2020 1:46:19 PM,9/2/2020,BP,17,Completed,12/4/2020 11:04:56 AM,BP,Multiple daily injections,M,,1.0,,,6.466666666666666,<20,<7,BP,1,304.0
+306,9/4/2020,11/12/2020 11:32:52 AM,11/12/2020,BPFiasp,56,Completed,2/13/2021 12:07:09 PM,UC,Multiple daily injections,M,,1.0,,,8.466666666666667,20-65,<8.5,BP,0,
+307,10/13/2019,10/8/2020 12:13:15 PM,10/8/2020,BP,31,Completed,1/10/2021 12:17:55 PM,UC,Tandem Control IQ,M,1.0,,,,6.425,20-65,<7,BP,0,
+308,11/25/2019,11/25/2020 12:21:59 PM,11/25/2020,Control,16,Completed,,,Patch pump,M,1.0,,,,9.625,<20,≥8.5,Basic Pump/SAP,0,
+309,4/25/2020,4/11/2021 1:34:02 PM,4/11/2021,BP,11,Completed,7/20/2021 3:07:26 PM,BP,Patch pump,F,1.0,,,,7.8,<20,<8.5,BP,0,
+31,8/23/2019,5/7/2020 11:40:52 AM,5/7/2020,BP,10,Completed,8/6/2020 11:35:57 AM,UC,Patch pump,F,1.0,,,,7.4,<20,<8.5,BP,1,31.0
+311,6/27/2019,6/14/2020 1:16:13 PM,6/14/2020,Control,46,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,6.5,20-65,<7,CLP,0,
+312,1/14/2020,1/26/2021 11:56:34 AM,1/26/2021,BP,61,Completed,5/6/2021 1:12:12 PM,BP,Multiple daily injections,M,,1.0,,,6.625,20-65,<7,BP,0,
+313,7/18/2019,8/6/2020 4:04:28 PM,8/6/2020,BPFiasp,27,Completed,12/19/2020 7:09:50 PM,UC,Multiple daily injections,M,,1.0,,,8.45,20-65,<8.5,BP,0,
+314,8/3/2019,8/6/2020 4:54:33 PM,8/6/2020,BP,21,Completed,,,Multiple daily injections,F,,1.0,,,7.3,20-65,<8.5,BP,0,
+315,6/1/2020,8/3/2020 9:52:37 AM,8/3/2020,BP,10,Completed,11/2/2020 3:55:40 PM,BP,Multiple daily injections,F,,1.0,,,8.325,<20,<8.5,BP,0,
+317,3/23/2020,10/21/2020 9:18:58 AM,10/21/2020,BP,52,Completed,,,Conventional pump without automation,F,1.0,,,,8.0,20-65,<8.5,BP,0,
+318,10/24/2020,11/12/2020 12:24:12 PM,11/12/2020,BPFiasp,29,Completed,2/14/2021 1:55:05 PM,BP,Conventional pump without automation,F,1.0,,,,7.825,20-65,<8.5,BP,1,318.0
+32,3/28/2020,3/1/2021 12:09:13 PM,3/1/2021,BP,49,Completed,6/2/2021 4:08:57 PM,BP,Tandem Control IQ,M,1.0,,,,6.233333333333333,20-65,<7,BP,0,
+320,3/12/2020,2/6/2021 10:02:20 AM,2/6/2021,Control,10,Completed,,,Multiple daily injections,M,,1.0,,,7.675,<20,<8.5,MDI,0,
+321,4/20/2019,4/11/2020 11:09:04 AM,4/11/2020,BP,16,Completed,7/11/2020 1:53:26 PM,UC,Patch pump,F,1.0,,,,9.0,<20,≥8.5,BP,0,
+323,5/29/2019,4/29/2020 4:39:40 PM,4/29/2020,BP,37,Completed,8/5/2020 4:51:20 PM,BP,Tandem Control IQ,M,1.0,,,,7.333333333333333,20-65,<8.5,BP,0,
+326,3/3/2020,3/9/2021 1:40:42 PM,3/9/2021,BP,66,Completed,6/10/2021 12:26:40 PM,UC,Multiple daily injections,M,,1.0,,,7.033333333333334,≥65,<8.5,BP,0,
+328,12/23/2019,11/26/2020 2:50:58 PM,11/26/2020,BP,12,Completed,2/26/2021 4:27:14 PM,UC,Patch pump,M,1.0,,,,8.266666666666667,<20,<8.5,BP,0,
+331,5/13/2020,6/26/2020 5:56:36 PM,6/26/2020,BP,6,Completed,10/2/2020 9:06:38 PM,BP,Tandem Control IQ,M,1.0,,,,7.75,<10,<8.5,BP,1,331.0
+332,7/3/2019,6/1/2020 12:30:24 PM,6/1/2020,BP,9,Completed,9/2/2020 1:28:51 PM,BP,Patch pump,M,1.0,,,,7.366666666666667,<10,<8.5,BP,0,
+335,12/10/2019,1/5/2021 4:36:51 PM,1/5/2021,Control,43,Completed,,,Tandem Control IQ,M,1.0,,,,6.7,20-65,<7,CLP,0,
+338,4/20/2019,1/11/2020 1:00:57 PM,1/11/2020,BPFiasp,50,Completed,4/15/2020 1:11:30 PM,BP,Tandem Control IQ,M,1.0,,,,7.6,20-65,<8.5,BP,1,338.0
+339,10/6/2020,1/14/2021 4:18:57 PM,1/14/2021,BP,15,Completed,,,Tandem Control IQ,F,1.0,,,,8.766666666666667,<20,≥8.5,BP,0,
+34,4/19/2020,11/22/2020 2:07:57 PM,11/22/2020,BP,16,Completed,2/21/2021 12:40:12 PM,BP,Tandem Control IQ,F,1.0,,,,8.125,<20,<8.5,BP,0,
+341,5/23/2019,4/20/2020 12:56:41 PM,4/20/2020,BP,46,Completed,7/21/2020 3:07:26 PM,UC,Tandem Control IQ,F,1.0,,,,6.925,20-65,<7,BP,0,
+343,10/12/2019,8/30/2020 9:39:06 AM,8/30/2020,Control,37,Completed,,,Patch pump,F,1.0,,,,7.825,20-65,<8.5,Basic Pump/SAP,1,343.0
+344,11/6/2019,7/29/2020 12:52:32 PM,7/29/2020,BPFiasp,50,Completed,10/28/2020 2:33:00 PM,UC,Conventional pump without automation,F,1.0,,,,7.1000000000000005,20-65,<8.5,BP,0,
+345,5/15/2019,4/14/2020 10:46:02 AM,4/14/2020,Control,16,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,7.675,<20,<8.5,CLP,0,
+347,5/14/2019,4/9/2020 10:42:37 AM,4/9/2020,BPFiasp,53,Completed,7/14/2020 11:07:38 AM,BP,Patch pump,M,1.0,,,,7.125,20-65,<8.5,BP,0,
+348,3/25/2020,12/20/2020 4:21:38 PM,12/20/2020,BPFiasp,68,Completed,,,Tandem Control IQ,F,1.0,,,,6.949999999999999,≥65,<7,BP,0,
+35,9/11/2019,9/8/2020 11:19:42 AM,9/8/2020,Control,50,Completed,,,Multiple daily injections,F,,1.0,,,9.525,20-65,≥8.5,MDI,0,
+350,10/20/2020,11/10/2020 1:41:12 PM,11/10/2020,BP,18,Completed,2/12/2021 1:26:15 PM,BP,Multiple daily injections,M,,1.0,,,9.133333333333333,<20,≥8.5,BP,1,350.0
+357,8/26/2019,8/26/2020 3:59:26 PM,8/26/2020,BP,39,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,8.633333333333333,20-65,≥8.5,BP,0,
+358,2/8/2020,4/19/2020 9:26:31 AM,4/19/2020,BP,36,Completed,7/19/2020 11:12:35 AM,UC,Medtronic 670G/770G using automode,M,1.0,,,,6.8,20-65,<7,BP,0,
+359,2/3/2020,1/9/2021 11:30:43 AM,1/9/2021,BP,62,Completed,4/18/2021 1:33:37 PM,UC,Conventional pump without automation,F,1.0,,,,6.375,20-65,<7,BP,0,
+36,3/22/2020,10/3/2020 3:23:41 PM,10/3/2020,BP,34,Completed,1/5/2021 10:05:15 AM,UC,Conventional pump without automation,F,1.0,,,,6.425,20-65,<7,BP,0,
+360,3/25/2021,4/14/2021 10:41:13 AM,4/14/2021,BP,16,Completed,7/14/2021 1:48:49 PM,BP,Multiple daily injections,F,,1.0,,,7.85,<20,<8.5,BP,1,360.0
+365,12/2/2020,12/23/2020 1:23:51 PM,12/23/2020,BP,13,Completed,3/25/2021 4:20:50 PM,UC,Multiple daily injections,F,,1.0,,,8.633333333333333,<20,≥8.5,BP,1,365.0
+366,8/18/2020,9/6/2020 8:56:42 AM,9/6/2020,BP,39,Completed,12/10/2020 11:09:35 AM,BP,Multiple daily injections,M,,1.0,,,8.733333333333334,20-65,≥8.5,BP,1,366.0
+367,6/5/2019,2/27/2020 1:04:20 PM,2/27/2020,BP,49,Completed,6/4/2020 3:03:27 PM,BP,Tandem Control IQ,F,1.0,,,,7.966666666666668,20-65,<8.5,BP,1,367.0
+368,11/28/2019,11/27/2020 6:17:24 PM,11/27/2020,Control,9,Completed,,,Multiple daily injections,M,,1.0,,,7.8,<10,<8.5,MDI,0,
+369,3/5/2020,2/16/2021 1:39:54 PM,2/16/2021,BP,53,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,7.1,20-65,<8.5,BP,0,
+37,4/23/2019,4/27/2020 1:06:44 PM,4/27/2020,BP,19,Completed,8/1/2020 1:58:08 PM,BP,Tandem Control IQ,M,1.0,,,,6.025,<20,<7,BP,0,
+370,9/18/2020,1/31/2021 8:49:09 AM,1/31/2021,Control,26,Completed,,,Patch pump,F,1.0,,,,5.975,20-65,<7,Basic Pump/SAP,0,
+371,3/29/2020,3/12/2021 2:09:00 PM,3/12/2021,BP,14,Completed,6/11/2021 3:20:09 PM,BP,Patch pump,M,1.0,,,,8.475,<20,<8.5,BP,0,
+372,1/25/2020,4/25/2020 8:57:07 AM,4/25/2020,BPFiasp,40,Completed,8/1/2020 9:29:30 AM,BP,Patch pump,M,1.0,,,,7.766666666666667,20-65,<8.5,BP,0,
+375,8/22/2019,7/27/2020 1:52:25 PM,7/27/2020,Control,11,Completed,,,Patch pump,F,1.0,,,,6.6,<20,<7,Basic Pump/SAP,0,
+376,7/1/2019,6/3/2020 5:10:33 PM,6/3/2020,BP,10,Completed,9/2/2020 7:07:53 PM,BP,Tandem Control IQ,M,1.0,,,,7.533333333333334,<20,<8.5,BP,0,
+377,2/10/2020,12/7/2020 11:09:41 AM,12/7/2020,BP,6,Completed,3/15/2021 3:42:37 PM,BP,Patch pump,M,1.0,,,,6.133333333333333,<10,<7,BP,0,
+378,3/12/2020,10/15/2020 9:52:23 AM,10/15/2020,BPFiasp,33,Completed,1/17/2021 3:21:24 PM,UC,Tandem Control IQ,F,1.0,,,,7.133333333333333,20-65,<8.5,BP,0,
+38,2/28/2020,2/11/2021 8:37:55 AM,2/11/2021,BPFiasp,58,Completed,5/20/2021 9:05:06 AM,UC,Conventional pump without automation,M,1.0,,,,7.266666666666667,20-65,<8.5,BP,0,
+380,2/6/2020,10/22/2020 10:42:27 AM,10/22/2020,Control,38,Completed,,,Conventional pump without automation,F,1.0,,,,7.2,20-65,<8.5,Basic Pump,0,
+381,12/27/2019,1/9/2021 10:52:43 AM,1/9/2021,Control,6,Completed,,,Tandem Basal IQ,F,1.0,,,,5.866666666666667,<10,<7,SAP,0,
+382,2/15/2020,8/3/2020 9:50:22 AM,8/3/2020,Control,53,Completed,,,Multiple daily injections,M,,1.0,,,7.425,20-65,<8.5,MDI,0,
+387,4/25/2020,3/23/2021 6:02:04 PM,3/23/2021,BP,6,Completed,6/29/2021 3:43:41 PM,UC,Patch pump,M,1.0,,,,6.65,<10,<7,BP,0,
+389,11/18/2019,11/7/2020 12:04:33 PM,11/7/2020,BP,9,Completed,2/13/2021 2:26:32 PM,BP,Tandem Basal IQ,F,1.0,,,,7.925000000000001,<10,<8.5,BP,1,389.0
+39,10/22/2019,7/3/2020 4:13:03 PM,7/3/2020,BPFiasp,38,Completed,10/4/2020 1:57:23 PM,BP,Multiple daily injections,M,,1.0,,,7.3,20-65,<8.5,BP,1,39.0
+390,11/4/2020,2/10/2021 12:34:00 PM,2/10/2021,BPFiasp,72,Dropped,,,Conventional pump without automation,M,1.0,,,,6.7,≥65,<7,BP,1,390.0
+391,5/27/2020,8/6/2020 9:27:10 AM,8/6/2020,BP,9,Completed,11/5/2020 4:31:02 PM,BP,Tandem Control IQ,M,1.0,,,,8.05,<10,<8.5,BP,0,
+392,11/5/2019,2/3/2020 10:52:46 AM,2/3/2020,BPFiasp,47,Completed,5/5/2020 10:22:15 AM,BP,Multiple daily injections,M,,1.0,,,7.375,20-65,<8.5,BP,1,392.0
+393,1/5/2020,11/27/2020 11:05:59 AM,11/27/2020,BP,44,Completed,,,Patch pump,F,1.0,,,,7.725,20-65,<8.5,BP,1,393.0
+394,3/28/2020,4/2/2021 2:49:58 PM,4/2/2021,BP,12,Completed,7/5/2021 3:07:46 PM,BP,Tandem Control IQ,M,1.0,,,,8.525,<20,≥8.5,BP,0,
+395,3/9/2020,2/4/2021 6:46:11 PM,2/4/2021,Control,61,Completed,,,Patch pump,M,1.0,,,,7.666666666666667,20-65,<8.5,Basic Pump/SAP,0,
+396,7/14/2019,7/31/2020 6:51:57 PM,7/31/2020,BP,15,Completed,11/1/2020 4:25:54 PM,UC,Tandem Control IQ,F,1.0,,,,7.966666666666666,<20,<8.5,BP,0,
+399,12/2/2019,11/4/2020 3:00:41 PM,11/4/2020,Control,59,Completed,,,Tandem Control IQ,F,1.0,,,,7.05,20-65,<8.5,CLP,0,
+40,9/5/2019,5/28/2020 1:56:25 PM,5/28/2020,Control,9,Completed,,,Patch pump,M,1.0,,,,7.025,<10,<8.5,Basic Pump/SAP,1,40.0
+400,8/1/2019,6/26/2020 10:31:18 AM,6/26/2020,BP,47,Completed,10/2/2020 11:54:10 AM,UC,Tandem Control IQ,F,1.0,,,,7.3,20-65,<8.5,BP,0,
+402,11/20/2019,11/20/2020 12:03:59 PM,11/20/2020,BPFiasp,20,Completed,2/25/2021 5:16:17 PM,BP,Conventional pump without automation,F,1.0,,,,7.925000000000001,20-65,<8.5,BP,1,402.0
+403,10/14/2019,9/12/2020 10:35:21 AM,9/12/2020,Control,13,Completed,,,Patch pump,M,1.0,,,,6.825,<20,<7,Basic Pump/SAP,0,
+404,7/5/2019,4/3/2020 2:28:57 PM,4/3/2020,BPFiasp,57,Completed,7/3/2020 3:14:06 PM,BP,Tandem Control IQ,M,1.0,,,,5.9,20-65,<7,BP,1,404.0
+405,9/15/2019,10/5/2020 5:59:11 PM,10/5/2020,BP,59,Completed,1/10/2021 1:01:29 PM,BP,Conventional pump without automation,F,1.0,,,,7.0,20-65,<8.5,BP,1,405.0
+406,11/18/2019,10/17/2020 12:14:40 PM,10/17/2020,Control,8,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,9.225,<10,≥8.5,CLP,1,406.0
+407,7/31/2019,8/8/2020 11:39:25 AM,8/8/2020,BP,15,Completed,11/12/2020 4:11:40 PM,BP,Patch pump,M,1.0,,,,8.6,<20,≥8.5,BP,0,
+41,6/15/2019,6/12/2020 3:43:22 PM,6/12/2020,Control,21,Completed,,,Conventional pump without automation,F,1.0,,,,7.233333333333333,20-65,<8.5,Basic Pump,0,
+412,11/2/2019,10/18/2020 2:05:45 PM,10/18/2020,BP,15,Completed,1/17/2021 11:31:03 AM,UC,Multiple daily injections,F,,1.0,,,8.425,<20,<8.5,BP,0,
+413,6/3/2019,6/17/2020 10:53:18 AM,6/17/2020,BPFiasp,82,Completed,9/20/2020 9:25:55 AM,BP,Conventional pump without automation,M,1.0,,,,6.833333333333333,≥65,<7,BP,0,
+416,10/31/2019,10/16/2020 11:43:09 AM,10/16/2020,Control,32,Completed,,,Conventional pump without automation,M,1.0,,,,8.575,20-65,≥8.5,Basic Pump,0,
+417,4/30/2019,1/21/2020 3:49:24 PM,1/21/2020,BPFiasp,49,Completed,4/23/2020 4:17:44 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,6.800000000000001,20-65,<7,BP,1,417.0
+42,10/12/2019,10/25/2020 10:37:49 AM,10/25/2020,BP,62,Completed,1/31/2021 9:31:11 AM,UC,Tandem Basal IQ,M,1.0,,,,7.75,20-65,<8.5,BP,0,
+420,11/9/2019,11/5/2020 2:11:37 PM,11/5/2020,Control,44,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,7.675,20-65,<8.5,CLP,0,
+421,2/3/2020,1/17/2021 8:53:07 AM,1/17/2021,BP,23,Completed,4/25/2021 8:55:07 AM,UC,Tandem Control IQ,M,1.0,,,,6.55,20-65,<7,BP,0,
+422,6/9/2019,2/25/2020 9:33:42 AM,2/25/2020,Control,10,Completed,,,Tandem Control IQ,M,1.0,,,,8.475,<20,<8.5,CLP,1,422.0
+423,9/5/2019,5/15/2020 9:28:47 AM,5/15/2020,BP,35,Completed,8/20/2020 9:09:15 AM,UC,Medtronic 670G/770G using automode,F,1.0,,,,7.25,20-65,<8.5,BP,1,423.0
+424,2/15/2021,3/14/2021 2:25:11 PM,3/14/2021,BP,30,Completed,7/13/2021 6:46:00 PM,UC,Multiple daily injections,F,,1.0,,,7.425,20-65,<8.5,BP,1,424.0
+426,7/19/2020,11/28/2020 9:41:40 AM,11/28/2020,BP,10,Completed,2/27/2021 9:11:12 AM,UC,Multiple daily injections,F,,1.0,,,7.033333333333334,<20,<8.5,BP,1,426.0
+43,12/20/2019,12/24/2020 1:21:14 PM,12/24/2020,BPFiasp,22,Completed,3/31/2021 12:05:06 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,8.175,20-65,<8.5,BP,1,43.0
+430,1/9/2020,5/14/2020 1:47:25 PM,5/14/2020,BPFiasp,59,Completed,8/14/2020 3:07:08 PM,BP,Multiple daily injections,F,,1.0,,,7.433333333333334,20-65,<8.5,BP,0,
+432,9/18/2020,11/22/2020 8:52:19 AM,11/22/2020,BP,36,Completed,2/21/2021 8:58:18 AM,UC,Multiple daily injections,F,,1.0,,,6.875,20-65,<7,BP,0,
+433,9/15/2019,8/20/2020 3:07:22 PM,8/20/2020,Control,63,Completed,,,Tandem Control IQ,M,1.0,,,,7.5,20-65,<8.5,CLP,0,
+436,4/27/2020,4/17/2021 2:32:41 PM,4/17/2021,BPFiasp,20,Completed,7/24/2021 4:33:57 PM,BP,Multiple daily injections,F,,1.0,,,7.866666666666667,20-65,<8.5,BP,0,
+437,10/25/2019,7/26/2020 6:48:13 PM,7/26/2020,Control,15,Completed,,,Tandem Control IQ,M,1.0,,,,7.933333333333333,<20,<8.5,CLP,1,437.0
+438,10/29/2019,8/4/2020 9:17:11 AM,8/4/2020,BP,49,Completed,11/5/2020 9:03:49 AM,UC,Tandem Control IQ,M,1.0,,,,6.466666666666666,20-65,<7,BP,1,438.0
+439,3/28/2020,12/31/2020 4:36:43 PM,12/31/2020,Control,16,Completed,,,Tandem Control IQ,F,1.0,,,,6.966666666666666,<20,<7,CLP,1,439.0
+440,4/26/2019,3/15/2020 9:19:46 AM,3/15/2020,BPFiasp,42,Completed,6/14/2020 3:22:56 PM,BP,Multiple daily injections,F,,1.0,,,6.95,20-65,<7,BP,0,
+441,12/3/2020,1/5/2021 9:54:16 AM,1/5/2021,BP,35,Completed,4/7/2021 2:25:28 PM,UC,Conventional pump without automation,F,1.0,,,,7.433333333333334,20-65,<8.5,BP,1,441.0
+443,12/3/2019,11/12/2020 10:31:22 AM,11/12/2020,BP,44,Completed,2/16/2021 11:15:40 AM,UC,Conventional pump without automation,F,1.0,,,,6.866666666666667,20-65,<7,BP,0,
+444,9/29/2019,9/13/2020 12:25:27 PM,9/13/2020,BPFiasp,21,Completed,,,Tandem Control IQ,F,1.0,,,,6.966666666666666,20-65,<7,BP,0,
+445,8/9/2019,7/18/2020 9:51:05 AM,7/18/2020,BP,14,Completed,10/18/2020 9:30:08 AM,UC,Multiple daily injections,M,,1.0,,,8.666666666666666,<20,≥8.5,BP,0,
+446,4/28/2019,3/30/2020 9:03:20 AM,3/30/2020,BP,64,Completed,7/6/2020 4:06:45 PM,UC,Multiple daily injections,F,,1.0,,,8.275,20-65,<8.5,BP,0,
+447,8/14/2019,7/21/2020 10:34:49 AM,7/21/2020,BP,7,Completed,10/22/2020 10:14:52 AM,UC,Patch pump,M,1.0,,,,7.533333333333334,<10,<8.5,BP,0,
+448,10/20/2019,9/27/2020 8:43:44 AM,9/27/2020,Control,25,Completed,,,Multiple daily injections,F,,1.0,,,8.45,20-65,<8.5,MDI,0,
+449,2/28/2020,12/5/2020 10:49:33 AM,12/5/2020,Control,12,Completed,,,Patch pump,F,1.0,,,,6.666666666666667,<20,<7,Basic Pump/SAP,1,449.0
+45,4/29/2020,8/10/2020 9:06:16 AM,8/10/2020,BPFiasp,57,Completed,11/12/2020 3:36:10 PM,UC,Conventional pump without automation,M,1.0,,,,7.525,20-65,<8.5,BP,0,
+451,8/8/2019,7/25/2020 12:05:40 PM,7/25/2020,BPFiasp,22,Completed,10/25/2020 11:00:49 AM,UC,Medtronic 670G/770G using automode,F,1.0,,,,7.3,20-65,<8.5,BP,0,
+452,3/7/2020,1/6/2021 10:10:01 AM,1/6/2021,BP,8,Completed,4/7/2021 10:58:32 AM,BP,Conventional pump without automation,F,1.0,,,,8.4,<10,<8.5,BP,0,
+457,5/8/2019,2/14/2020 10:32:21 AM,2/14/2020,BP,48,Completed,5/21/2020 1:27:33 PM,UC,Tandem Control IQ,F,1.0,,,,6.975,20-65,<7,BP,0,
+458,12/14/2019,10/27/2020 8:29:11 AM,10/27/2020,Control,16,Completed,,,Multiple daily injections,M,,1.0,,,7.866666666666667,<20,<8.5,MDI,0,
+459,5/14/2019,2/12/2020 10:38:48 AM,2/12/2020,BP,15,Completed,5/13/2020 9:38:37 AM,UC,Tandem Control IQ,F,1.0,,,,6.35,<20,<7,BP,0,
+46,4/14/2020,1/1/2021 9:45:03 AM,1/1/2021,Control,16,Completed,,,Multiple daily injections,M,,1.0,,,5.975,<20,<7,MDI,0,
+462,3/17/2020,11/27/2020 9:01:21 AM,11/27/2020,BP,16,Completed,2/26/2021 10:46:02 AM,UC,Tandem Control IQ,F,1.0,,,,7.775,<20,<8.5,BP,1,462.0
+463,6/26/2019,5/19/2020 12:40:10 PM,5/19/2020,BP,32,Completed,8/18/2020 12:58:10 PM,BP,Conventional pump without automation,M,1.0,,,,6.666666666666667,20-65,<7,BP,1,463.0
+464,9/26/2019,8/30/2020 9:01:36 AM,8/30/2020,BPFiasp,19,Completed,12/11/2020 9:25:53 AM,UC,Multiple daily injections,F,,1.0,,,11.325,<20,≥8.5,BP,0,
+466,8/23/2019,6/23/2020 9:35:25 AM,6/23/2020,BPFiasp,42,Completed,9/23/2020 10:43:32 AM,BP,Tandem Control IQ,M,1.0,,,,6.933333333333334,20-65,<7,BP,0,
+467,11/18/2020,2/25/2021 7:54:50 AM,2/25/2021,BPFiasp,54,Completed,6/3/2021 9:00:08 AM,BP,Patch pump,F,1.0,,,,6.85,20-65,<7,BP,0,
+468,1/28/2020,1/1/2021 10:36:08 AM,1/1/2021,BP,11,Completed,4/2/2021 11:55:24 AM,BP,Multiple daily injections,F,,1.0,,,8.8,<20,≥8.5,BP,0,
+47,1/7/2020,2/3/2021 11:27:05 AM,2/3/2021,BP,11,Completed,5/10/2021 12:01:32 PM,UC,Multiple daily injections,F,,1.0,,,8.15,<20,<8.5,BP,0,
+472,11/7/2019,10/19/2020 1:20:23 PM,10/19/2020,BPFiasp,39,Completed,1/19/2021 1:01:11 PM,BP,Tandem Control IQ,M,1.0,,,,6.533333333333334,20-65,<7,BP,0,
+473,1/31/2020,6/18/2020 10:31:48 AM,6/18/2020,BP,41,Completed,9/17/2020 9:56:16 AM,BP,Tandem Control IQ,F,1.0,,,,6.6000000000000005,20-65,<7,BP,0,
+475,1/1/2020,9/29/2020 8:42:00 AM,9/29/2020,Control,48,Completed,,,Tandem Control IQ,M,1.0,,,,6.633333333333333,20-65,<7,CLP,1,475.0
+476,2/20/2021,3/7/2021 12:31:24 PM,3/7/2021,Control,45,Completed,,,Multiple daily injections,M,,1.0,,,8.833333333333334,20-65,≥8.5,MDI,1,476.0
+477,1/25/2020,10/24/2020 9:53:58 AM,10/24/2020,Control,16,Completed,,,Tandem Control IQ,M,1.0,,,,6.366666666666667,<20,<7,CLP,0,
+48,1/8/2020,10/1/2020 11:59:39 AM,10/1/2020,BPFiasp,61,Completed,12/31/2020 12:23:13 PM,UC,Conventional pump without automation,F,1.0,,,,7.45,20-65,<8.5,BP,1,48.0
+480,2/11/2020,11/8/2020 12:41:24 PM,11/8/2020,BP,46,Completed,2/13/2021 12:37:24 PM,BP,Tandem Control IQ,F,1.0,,,,7.125,20-65,<8.5,BP,0,
+481,8/3/2019,7/8/2020 12:10:18 PM,7/8/2020,Control,14,Completed,,,Multiple daily injections,F,,1.0,,,7.733333333333333,<20,<8.5,MDI,0,
+483,9/28/2019,8/27/2020 2:50:47 PM,8/27/2020,BPFiasp,22,Completed,11/30/2020 12:10:44 PM,BP,Multiple daily injections,F,,1.0,,,6.825,20-65,<7,BP,0,
+484,2/3/2020,2/6/2021 10:09:53 AM,2/6/2021,Control,44,Completed,,,Tandem Control IQ,F,1.0,,,,6.966666666666666,20-65,<7,CLP,0,
+486,3/2/2020,11/28/2020 5:20:58 PM,11/28/2020,Control,32,Completed,,,Tandem Control IQ,M,1.0,,,,5.933333333333334,20-65,<7,CLP,1,486.0
+49,1/11/2020,1/5/2021 2:44:00 PM,1/5/2021,Control,33,Completed,,,Conventional pump without automation,M,1.0,,,,7.7,20-65,<8.5,Basic Pump,1,49.0
+490,7/19/2020,8/31/2020 11:15:16 AM,8/31/2020,BP,37,Completed,12/7/2020 12:19:55 PM,UC,Conventional pump without automation,F,1.0,,,,7.7,20-65,<8.5,BP,0,
+493,11/1/2019,11/4/2020 12:10:51 PM,11/4/2020,BP,16,Completed,2/5/2021 9:32:53 PM,UC,Tandem Control IQ,M,1.0,,,,7.5,<20,<8.5,BP,0,
+496,12/16/2019,11/23/2020 9:46:10 AM,11/23/2020,BP,63,Completed,2/22/2021 11:46:53 AM,UC,Tandem Control IQ,F,1.0,,,,7.933333333333334,20-65,<8.5,BP,0,
+497,4/23/2019,1/27/2020 1:04:21 PM,1/27/2020,BP,35,Completed,5/4/2020 4:30:55 PM,BP,Tandem Basal IQ,M,1.0,,,,6.1,20-65,<7,BP,0,
+499,7/30/2020,1/12/2021 9:37:15 AM,1/12/2021,Control,17,Completed,,,Patch pump,M,1.0,,,,6.15,<20,<7,Basic Pump/SAP,0,
+50,10/8/2019,9/17/2020 11:01:31 AM,9/17/2020,BP,11,Completed,12/25/2020 1:42:20 PM,BP,Medtronic 670G/770G using automode,F,1.0,,,,7.824999999999999,<20,<8.5,BP,0,
+501,6/1/2019,5/15/2020 9:54:44 AM,5/15/2020,BP,8,Completed,8/15/2020 11:49:24 AM,BP,Multiple daily injections,F,,1.0,,,8.866666666666667,<10,≥8.5,BP,1,501.0
+502,12/5/2019,8/25/2020 4:47:43 PM,8/25/2020,BPFiasp,24,Completed,11/27/2020 5:15:44 PM,BP,Conventional pump without automation,M,1.0,,,,6.366666666666667,20-65,<7,BP,1,502.0
+503,12/17/2020,1/11/2021 12:24:19 PM,1/11/2021,BPFiasp,40,Completed,4/13/2021 2:44:57 PM,BP,Multiple daily injections,M,,1.0,,,7.8,20-65,<8.5,BP,1,503.0
+504,10/31/2019,10/21/2020 12:31:29 PM,10/21/2020,BP,7,Completed,1/20/2021 3:33:20 PM,BP,Patch pump,M,1.0,,,,8.85,<10,≥8.5,BP,0,
+505,2/15/2020,12/27/2020 9:39:06 AM,12/27/2020,Control,9,Completed,,,Patch pump,F,1.0,,,,8.575,<10,≥8.5,Basic Pump/SAP,0,
+507,9/9/2020,12/25/2020 11:49:21 AM,12/25/2020,BPFiasp,52,Completed,,,Medtronic 670G/770G using automode,F,1.0,,,,7.533333333333334,20-65,<8.5,BP,0,
+509,12/9/2019,12/18/2020 9:14:26 AM,12/18/2020,BP,31,Completed,3/24/2021 12:20:44 PM,BP,Tandem Control IQ,M,1.0,,,,7.566666666666667,20-65,<8.5,BP,0,
+51,1/17/2020,1/12/2021 9:01:05 AM,1/12/2021,BP,51,Completed,4/19/2021 4:18:31 PM,BP,Conventional pump without automation,M,1.0,,,,7.625,20-65,<8.5,BP,0,
+510,1/1/2021,1/17/2021 9:21:21 AM,1/17/2021,BPFiasp,18,Completed,4/23/2021 11:26:11 AM,BP,Multiple daily injections,M,,1.0,,,7.8,<20,<8.5,BP,1,510.0
+511,6/24/2019,5/25/2020 5:13:56 PM,5/25/2020,BPFiasp,53,Completed,8/31/2020 6:59:41 PM,UC,Multiple daily injections,F,,1.0,,,8.3,20-65,<8.5,BP,0,
+512,3/10/2021,3/30/2021 10:58:11 AM,3/30/2021,BPFiasp,18,Completed,7/1/2021 10:55:04 AM,BP,Conventional pump without automation,M,1.0,,,,7.95,<20,<8.5,BP,1,512.0
+514,1/26/2020,2/2/2021 11:09:54 AM,2/2/2021,BPFiasp,36,Completed,5/4/2021 11:17:38 AM,BP,Multiple daily injections,M,,1.0,1.0,,7.233333333333333,20-65,<8.5,BP,0,
+516,6/17/2020,9/18/2020 9:48:27 AM,9/18/2020,BP,33,Completed,12/22/2020 3:50:41 PM,BP,Patch pump,F,1.0,,,,7.225,20-65,<8.5,BP,0,
+517,10/14/2019,7/17/2020 2:37:06 PM,7/17/2020,Control,26,Completed,,,Conventional pump without automation,F,1.0,,,,9.35,20-65,≥8.5,Basic Pump,1,517.0
+519,9/3/2019,5/27/2020 11:39:42 AM,5/27/2020,BP,15,Completed,8/31/2020 8:49:24 AM,UC,Medtronic 670G/770G using automode,F,1.0,,,,9.25,<20,≥8.5,BP,1,519.0
+52,4/1/2020,4/6/2021 10:04:23 AM,4/6/2021,Control,13,Completed,,,Multiple daily injections,M,,1.0,,,7.8,<20,<8.5,MDI,1,52.0
+525,8/9/2019,7/3/2020 4:15:32 PM,7/3/2020,BP,7,Completed,10/3/2020 7:11:13 PM,BP,Patch pump,F,1.0,,,,6.7,<10,<7,BP,0,
+529,1/15/2020,2/1/2020 8:29:06 AM,2/1/2020,BP,11,Completed,5/10/2020 9:56:30 AM,BP,Tandem Control IQ,M,1.0,,,,6.85,<20,<7,BP,0,
+53,3/21/2020,6/5/2020 4:49:53 PM,6/5/2020,BP,15,Completed,9/11/2020 8:17:48 PM,UC,Tandem Control IQ,M,1.0,,,,7.366666666666667,<20,<8.5,BP,0,
+530,6/8/2019,5/25/2020 8:46:28 AM,5/25/2020,Control,69,Completed,,,Conventional pump without automation,F,1.0,,,,7.233333333333333,≥65,<8.5,Basic Pump,0,
+531,2/16/2020,11/3/2020 10:54:33 AM,11/3/2020,Control,13,Completed,,,Tandem Basal IQ,M,1.0,,,,7.9,<20,<8.5,SAP,1,531.0
+532,9/30/2020,10/21/2020 3:00:39 PM,10/21/2020,Control,21,Completed,,,Multiple daily injections,F,,1.0,,,8.266666666666667,20-65,<8.5,MDI,1,532.0
+533,6/6/2019,5/22/2020 11:05:44 AM,5/22/2020,Control,48,Completed,,,Multiple daily injections,M,,1.0,,,6.375,20-65,<7,MDI,0,
+534,1/30/2020,4/19/2020 2:38:50 PM,4/19/2020,BP,12,Completed,7/23/2020 5:30:29 PM,BP,Multiple daily injections,M,,1.0,,,7.325,<20,<8.5,BP,0,
+535,9/6/2019,9/25/2020 2:09:51 PM,9/25/2020,BP,20,Completed,1/4/2021 2:33:25 AM,BP,Medtronic 670G/770G using automode,M,1.0,,,,8.525,20-65,≥8.5,BP,0,
+54,6/12/2019,6/10/2020 1:14:36 PM,6/10/2020,BP,14,Completed,9/16/2020 3:39:34 PM,UC,Conventional pump without automation,F,1.0,,,,10.05,<20,≥8.5,BP,0,
+540,11/20/2019,10/20/2020 4:56:19 PM,10/20/2020,Control,14,Completed,,,Multiple daily injections,M,,1.0,,,10.1,<20,≥8.5,MDI,0,
+541,4/14/2020,1/3/2021 5:04:23 PM,1/3/2021,BP,11,Completed,4/5/2021 12:22:27 PM,BP,Patch pump,F,1.0,,,,6.6,<20,<7,BP,0,
+543,4/2/2020,12/18/2020 9:44:12 AM,12/18/2020,BP,6,Completed,3/20/2021 2:51:39 PM,UC,Patch pump,F,1.0,,,,7.0,<10,<8.5,BP,0,
+545,7/3/2019,4/29/2020 10:07:28 AM,4/29/2020,Control,13,Completed,,,Multiple daily injections,M,,1.0,,,7.833333333333333,<20,<8.5,MDI,1,545.0
+546,6/29/2019,3/7/2020 11:13:41 AM,3/7/2020,BPFiasp,39,Completed,6/13/2020 4:43:57 PM,BP,Tandem Control IQ,M,1.0,,,,7.3,20-65,<8.5,BP,1,546.0
+547,5/20/2020,6/19/2020 11:15:03 AM,6/19/2020,BP,15,Completed,,,Patch pump,F,1.0,,,,8.675,<20,≥8.5,BP,0,
+548,5/4/2020,3/30/2021 8:01:54 AM,3/30/2021,BP,9,Completed,7/4/2021 11:00:46 AM,BP,Multiple daily injections,M,,1.0,,,7.6,<10,<8.5,BP,0,
+549,12/15/2019,5/4/2020,5/4/2020,BP,11,Completed,8/4/2020 11:12:31 AM,UC,Conventional pump without automation,F,1.0,,,,7.925,<20,<8.5,BP,1,549.0
+55,5/29/2020,6/20/2020 3:10:20 PM,6/20/2020,BP,11,Completed,9/19/2020 1:58:51 PM,UC,Multiple daily injections,M,,1.0,,,9.15,<20,≥8.5,BP,1,55.0
+550,4/20/2019,4/10/2020 10:57:25 AM,4/10/2020,Control,70,Completed,,,Conventional pump without automation,M,1.0,,,,7.9,≥65,<8.5,Basic Pump,0,
+551,5/19/2019,1/30/2020 5:08:46 PM,1/30/2020,BP,11,Completed,4/30/2020 7:51:24 PM,BP,Patch pump,M,1.0,,,,7.333333333333333,<20,<8.5,BP,1,551.0
+552,8/19/2019,8/16/2020 12:58:24 PM,8/16/2020,BPFiasp,29,Completed,,,Tandem Control IQ,M,1.0,,,,7.266666666666667,20-65,<8.5,BP,0,
+553,12/22/2019,9/9/2020 1:06:22 PM,9/9/2020,Control,65,Completed,,,Conventional pump without automation,F,1.0,,,,5.725,≥65,<7,Basic Pump,1,553.0
+554,6/29/2019,5/27/2020 12:50:36 PM,5/27/2020,BPFiasp,47,Completed,9/2/2020 3:48:33 PM,BP,Multiple daily injections,F,,1.0,,,7.025,20-65,<8.5,BP,0,
+555,7/1/2019,6/22/2020 10:21:11 AM,6/22/2020,BP,63,Completed,9/23/2020 11:37:46 AM,BP,Conventional pump without automation,M,1.0,,,,6.725,20-65,<7,BP,0,
+556,12/14/2020,4/21/2021 12:25:21 PM,4/21/2021,BP,7,Completed,7/26/2021 12:32:11 PM,BP,Multiple daily injections,F,,1.0,,,8.2,<10,<8.5,BP,0,
+557,7/23/2019,7/26/2020 3:50:45 PM,7/26/2020,BPFiasp,35,Completed,10/27/2020 5:49:55 PM,UC,Tandem Control IQ,F,1.0,,,,5.8,20-65,<7,BP,0,
+558,10/8/2019,9/11/2020 2:51:16 PM,9/11/2020,Control,8,Completed,,,Patch pump,M,1.0,,,,8.133333333333333,<10,<8.5,Basic Pump/SAP,0,
+560,11/7/2020,11/22/2020 12:33:47 PM,11/22/2020,BP,19,Completed,2/21/2021 3:06:40 PM,UC,Multiple daily injections,F,,1.0,,,8.825,<20,≥8.5,BP,1,560.0
+564,5/30/2019,5/13/2020 12:49:19 PM,5/13/2020,BP,20,Completed,8/15/2020 11:36:04 AM,BP,Multiple daily injections,F,,1.0,,,7.266666666666666,20-65,<8.5,BP,0,
+566,8/24/2020,12/16/2020 1:48:49 PM,12/16/2020,Control,29,Completed,,,Multiple daily injections,M,,1.0,,,6.275,20-65,<7,MDI,0,
+567,5/3/2019,1/29/2020 11:24:42 AM,1/29/2020,BP,12,Completed,5/6/2020 9:24:08 AM,UC,Multiple daily injections,M,,1.0,,,7.125,<20,<8.5,BP,1,567.0
+569,6/22/2019,3/11/2020 3:54:12 PM,3/11/2020,BPFiasp,27,Completed,6/10/2020 4:22:05 PM,UC,Tandem Control IQ,F,1.0,,,,7.3,20-65,<8.5,BP,1,569.0
+57,11/29/2020,12/19/2020 3:24:25 PM,12/19/2020,BP,50,Completed,3/22/2021 3:15:01 PM,BP,Conventional pump without automation,F,1.0,,,,7.1000000000000005,20-65,<8.5,BP,1,57.0
+570,9/26/2019,9/3/2020 6:14:28 PM,9/3/2020,BP,35,Completed,12/7/2020 9:03:49 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,6.824999999999999,20-65,<7,BP,0,
+571,10/4/2019,9/28/2020 11:28:37 AM,9/28/2020,BPFiasp,41,Completed,1/4/2021 10:14:42 AM,BP,Medtronic 670G/770G using automode,F,1.0,,,,6.65,20-65,<7,BP,0,
+573,11/24/2019,10/15/2020 2:40:10 PM,10/15/2020,BP,11,Completed,1/14/2021 10:58:25 AM,UC,Patch pump,F,1.0,,,,8.45,<20,<8.5,BP,0,
+574,10/8/2019,7/6/2020 6:20:16 PM,7/6/2020,BP,37,Completed,10/9/2020 4:05:43 PM,UC,Medtronic 670G/770G using automode,F,1.0,,,,6.9,20-65,<7,BP,1,574.0
+575,4/9/2020,3/27/2021 1:30:46 PM,3/27/2021,Control,36,Completed,,,Medtronic 670G/770G using automode,M,1.0,,,,8.4,20-65,<8.5,CLP,0,
+576,2/1/2020,4/18/2020 1:10:06 PM,4/18/2020,BPFiasp,43,Completed,7/24/2020 11:39:01 AM,BP,Tandem Control IQ,F,1.0,,,,6.4,20-65,<7,BP,0,
+577,3/23/2020,12/8/2020 3:22:16 PM,12/8/2020,BPFiasp,52,Completed,3/11/2021 3:29:59 PM,BP,Multiple daily injections,M,,1.0,,,9.4,20-65,≥8.5,BP,0,
+578,5/2/2019,5/4/2020 12:15:44 PM,5/4/2020,BP,15,Completed,8/4/2020 4:31:48 PM,BP,Tandem Control IQ,F,1.0,,,,7.5,<20,<8.5,BP,0,
+58,10/12/2020,1/10/2021 5:20:25 PM,1/10/2021,Control,27,Completed,,,Multiple daily injections,F,,1.0,,,8.25,20-65,<8.5,MDI,0,
+580,3/29/2020,1/5/2021 4:36:16 PM,1/5/2021,BP,15,Completed,,,Tandem Control IQ,F,1.0,,,,8.799999999999999,<20,≥8.5,BP,1,580.0
+581,4/1/2020,1/5/2021 10:31:53 AM,1/5/2021,BP,49,Completed,4/7/2021 11:12:20 AM,UC,Multiple daily injections,M,,1.0,,,7.375,20-65,<8.5,BP,1,581.0
+583,4/27/2019,5/10/2020 10:20:14 AM,5/10/2020,BPFiasp,36,Completed,8/11/2020 1:15:53 PM,UC,Tandem Basal IQ,F,1.0,,,,6.066666666666666,20-65,<7,BP,0,
+584,4/17/2020,3/24/2021 8:27:18 AM,3/24/2021,BP,43,Completed,,,Multiple daily injections,F,,1.0,,,7.633333333333333,20-65,<8.5,BP,0,
+586,6/19/2020,7/5/2020 12:04:10 PM,7/5/2020,BP,8,Completed,10/5/2020 11:34:19 AM,UC,Patch pump,F,1.0,,,,6.675,<10,<7,BP,1,586.0
+587,10/11/2019,10/2/2020 9:42:42 AM,10/2/2020,Control,9,Completed,,,Multiple daily injections,M,,1.0,,,7.233333333333333,<10,<8.5,MDI,0,
+588,3/25/2020,3/13/2021 10:58:56 AM,3/13/2021,BPFiasp,50,Completed,6/21/2021 12:24:15 PM,BP,Multiple daily injections,F,,1.0,,,8.475,20-65,<8.5,BP,0,
+589,6/26/2019,6/27/2020 11:47:24 AM,6/27/2020,BP,9,Completed,9/30/2020 5:46:27 PM,BP,Conventional pump without automation,M,1.0,,,,8.1,<10,<8.5,BP,0,
+59,12/27/2019,9/9/2020 4:29:05 PM,9/9/2020,BP,10,Completed,12/9/2020 3:48:40 PM,UC,Multiple daily injections,M,,1.0,,,7.15,<20,<8.5,BP,1,59.0
+590,3/17/2020,12/12/2020 11:34:12 AM,12/12/2020,BP,10,Completed,3/17/2021 10:00:23 AM,BP,Patch pump,F,1.0,,,,7.45,<20,<8.5,BP,0,
+592,3/9/2020,5/18/2020 12:13:41 PM,5/18/2020,BP,9,Completed,8/23/2020 11:18:32 AM,UC,Patch pump,F,1.0,,,,6.566666666666666,<10,<7,BP,1,592.0
+593,7/7/2020,7/24/2020 2:09:31 PM,7/24/2020,BP,24,Completed,10/27/2020 1:08:45 PM,UC,Multiple daily injections,F,,1.0,,,10.433333333333334,20-65,≥8.5,BP,1,593.0
+594,12/19/2020,2/22/2021 1:47:31 PM,2/22/2021,BP,59,Completed,5/26/2021 4:40:44 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,7.566666666666666,20-65,<8.5,BP,1,594.0
+597,9/17/2019,10/5/2020 2:47:28 PM,10/5/2020,BP,23,Completed,1/5/2021 11:45:19 AM,BP,Multiple daily injections,M,,1.0,,,7.1000000000000005,20-65,<8.5,BP,0,
+6,12/26/2019,12/17/2020 9:41:19 AM,12/17/2020,BP,15,Completed,3/19/2021 12:32:00 PM,UC,Multiple daily injections,M,,1.0,,,6.325,<20,<7,BP,0,
+600,8/17/2019,8/13/2020 2:09:44 PM,8/13/2020,BP,37,Dropped,,,Tandem Control IQ,F,1.0,,,,6.6000000000000005,20-65,<7,BP,0,
+63,6/1/2019,2/23/2020 1:37:18 PM,2/23/2020,BP,63,Completed,5/26/2020 2:45:04 PM,BP,Conventional pump without automation,M,1.0,,,,6.65,20-65,<7,BP,1,63.0
+65,12/1/2019,6/14/2020 12:30:08 PM,6/14/2020,BP,58,Completed,9/13/2020 1:07:33 PM,BP,Multiple daily injections,M,,1.0,,,7.375,20-65,<8.5,BP,0,
+69,9/11/2019,8/24/2020 1:02:55 PM,8/24/2020,BPFiasp,36,Completed,12/1/2020 3:35:42 PM,UC,Tandem Basal IQ,F,1.0,,,,7.066666666666666,20-65,<8.5,BP,0,
+71,4/26/2019,1/21/2020 2:37:26 PM,1/21/2020,BP,50,Completed,4/24/2020 3:19:32 PM,UC,Conventional pump without automation,F,1.0,,,,6.800000000000001,20-65,<7,BP,0,
+72,6/4/2019,3/6/2020 3:19:25 PM,3/6/2020,BP,11,Completed,6/11/2020 5:22:57 PM,UC,Patch pump,F,1.0,,,,8.6,<20,≥8.5,BP,1,72.0
+76,1/6/2020,1/21/2021 3:27:12 PM,1/21/2021,BPFiasp,67,Completed,,,Multiple daily injections,M,,1.0,,,6.7,≥65,<7,BP,0,
+77,11/18/2019,12/9/2020 1:31:12 PM,12/9/2020,Control,74,Completed,,,Tandem Basal IQ,F,1.0,,,,6.5,≥65,<7,SAP,0,
+78,1/23/2020,1/13/2021 10:48:35 AM,1/13/2021,BP,15,Completed,4/15/2021 12:50:49 PM,UC,Multiple daily injections,M,,1.0,,,9.8,<20,≥8.5,BP,0,
+79,12/1/2020,1/5/2021 1:37:27 PM,1/5/2021,BP,27,Completed,4/9/2021 12:36:00 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,7.433333333333334,20-65,<8.5,BP,1,79.0
+8,8/24/2019,7/19/2020 11:51:20 AM,7/19/2020,BP,64,Completed,,,Multiple daily injections,F,,1.0,,,7.075,20-65,<8.5,BP,0,
+81,12/8/2020,2/17/2021 9:46:43 AM,2/17/2021,BP,55,Completed,,,Multiple daily injections,M,,1.0,,,8.033333333333333,20-65,<8.5,BP,0,
+85,5/4/2019,1/27/2020 9:24:23 AM,1/27/2020,Control,22,Completed,,,Tandem Control IQ,F,1.0,,,,5.625,20-65,<7,CLP,1,85.0
+86,5/8/2019,4/22/2020 2:13:51 PM,4/22/2020,Control,50,Completed,,,Medtronic 670G/770G using automode,F,1.0,,,,7.55,20-65,<8.5,CLP,0,
+89,4/12/2020,5/15/2021 11:18:51 AM,5/15/2021,BPFiasp,35,Completed,8/15/2021 2:47:14 PM,UC,Tandem Control IQ,F,1.0,,,,6.866666666666667,20-65,<7,BP,0,
+9,1/3/2020,1/23/2021 4:31:58 PM,1/23/2021,BPFiasp,39,Completed,5/6/2021 6:00:09 PM,BP,Medtronic 670G/770G using automode,M,1.0,,,,7.2,20-65,<8.5,BP,0,
+90,11/13/2019,9/10/2020 12:50:04 PM,9/10/2020,BP,10,Completed,12/17/2020 1:45:19 PM,BP,Tandem Control IQ,M,1.0,,,,7.866666666666667,<20,<8.5,BP,0,
+92,3/19/2020,3/29/2021 4:13:20 PM,3/29/2021,BP,46,Completed,7/4/2021 10:49:16 AM,UC,Multiple daily injections,F,,1.0,,,8.45,20-65,<8.5,BP,0,
+93,6/3/2019,2/29/2020 1:08:00 PM,2/29/2020,BP,8,Completed,5/30/2020 1:46:24 PM,UC,Patch pump,M,1.0,,,,8.1,<10,<8.5,BP,1,93.0
+94,1/20/2020,9/27/2020 1:00:19 PM,9/27/2020,BP,7,Completed,12/30/2020 2:39:05 PM,BP,Patch pump,M,1.0,,,,6.6000000000000005,<10,<7,BP,1,94.0
+97,10/6/2019,6/29/2020 10:17:04 AM,6/29/2020,BP,20,Completed,10/5/2020 9:09:50 AM,BP,Medtronic 670G/770G using automode,M,1.0,,,,7.225,20-65,<8.5,BP,1,97.0
+98,11/9/2019,10/20/2020 1:03:24 PM,10/20/2020,Control,60,Completed,,,Multiple daily injections,F,,1.0,,,8.425,20-65,<8.5,MDI,0,
+99,9/3/2020,1/13/2021 8:40:49 AM,1/13/2021,BPFiasp,36,Completed,4/20/2021 10:49:13 AM,UC,Multiple daily injections,M,,1.0,,,7.033333333333334,20-65,<8.5,BP,0,
