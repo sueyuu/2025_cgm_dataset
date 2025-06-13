@@ -7,3 +7,13 @@
 #except for the subfolders for each submissions
 !evaluation_models
 !healthy_synthesis
+!imputation
+!discretize
+!get_features
+!create_cgm_folder
+!filter_by_len
+!a1c_imputation
+!splitting
+!smoothing
+!motifs
+!k_medoid
