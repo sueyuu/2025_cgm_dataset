@@ -4,3 +4,24 @@
 [submodule "evaluation_models"]
 	path = evaluation_models
 	url = https://github.com/sueyuu/evaluation_models.git
+[submodule "discretize"]
+	path = discretize
+	url = https://github.com/sueyuu/discretize.git
+[submodule "filter_by_len"]
+	path = filter_by_len
+	url = https://github.com/sueyuu/filter_by_len.git
+[submodule "a1c_imputation"]
+	path = a1c_imputation
+	url = https://github.com/sueyuu/a1c_imputation.git
+[submodule "splitting"]
+	path = splitting
+	url = https://github.com/sueyuu/splitting.git
+[submodule "smoothing"]
+	path = smoothing
+	url = https://github.com/sueyuu/smoothing.git
+[submodule "motifs"]
+	path = motifs
+	url = https://github.com/sueyuu/motifs.git
+[submodule "k_medoid"]
+	path = k_medoid
+	url = https://github.com/sueyuu/k_medoid.git
